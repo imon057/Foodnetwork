@@ -6,6 +6,14 @@
     align-items: center;
     gap: 30px;
 }
+.about-parent{
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
 .banner-title{
     font-size: 50px;
 }
